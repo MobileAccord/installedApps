@@ -1,0 +1,35 @@
+{
+  "name": "info.quatinus.cordova.plugin.installedApps",
+  "version": "0.7.0",
+  "description": "Simple plugin that returns all of the installed apps, their names and their packages on android devices.",
+  "cordova": {
+    "id": "info.quatinus.cordova.plugin.installedApps",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MobileAccord/installedApps.git"
+  },
+  "keywords": [
+    "installed applications",
+    "apps",
+    "applications",
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "author": "MobileAccord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MobileAccord/installedApps/issues"
+  },
+  "homepage": "https://github.com/MobileAccord/installedApps#readme"
+}
